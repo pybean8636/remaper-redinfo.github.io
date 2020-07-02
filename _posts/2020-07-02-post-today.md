@@ -1,6 +1,5 @@
 ---
-title: "오늘은 무슨일이 있었나요?"
-date: 2020-07-20T15:34:30-04:00
+title: "오늘은 재미 있었나요?"
 categories:
   - blog
 tags:
